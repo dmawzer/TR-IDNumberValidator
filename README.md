@@ -9,7 +9,7 @@ Validate Turkish ID Number on js.
 $ npm install tr-idnumbervalidator
 ```
 
-##Usage
+## Usage
 
 ```js
 var validator = require('tr-idnumbervalidator')
