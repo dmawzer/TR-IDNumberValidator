@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/tr-idnumbervalidator.svg)](https://badge.fury.io/js/tr-idnumbervalidator)  [![Build Status](https://travis-ci.org/dmawzer/TR-IDNumberValidator.svg?branch=master)]
+[![npm version](https://badge.fury.io/js/tr-idnumbervalidator.svg)](https://badge.fury.io/js/tr-idnumbervalidator)  [![Build Status](https://travis-ci.org/dmawzer/TR-IDNumberValidator.svg?branch=master)](https://travis-ci.org/dmawzer/TR-IDNumberValidator)
 
 # TR-IDNumberValidator
 Validate Turkish ID Number on js.
